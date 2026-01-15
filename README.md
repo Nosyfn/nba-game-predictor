@@ -340,7 +340,7 @@ Use these abbreviations when making predictions:
 
 5.  **Betting Profitability Analysis**:
     Model evaluation focuses on ROI, not just accuracy. Our analysis shows:
-    - **5+ point edge**: ~55% win rate, +5% ROI
+    - **5+ point edge**: ~60% win rate, +5% ROI
     - **Higher edges = more profitable** but fewer opportunities
 
 ---
