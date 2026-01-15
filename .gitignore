@@ -1,0 +1,65 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.env
+.venv/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# Project Data
+# Ignore the actual database file as it can be regenerated or contains local state
+data/nba.db
+data/*.db
+# Keep CSV data files tracked (historical data)
+# data/*.csv  # Uncomment to ignore CSV files
+
+# Models - Binary artifacts that should be regenerated
+models/*.joblib
+models/*.pkl
+models/*.bin
+
+# Logs
+logs/
+*.log
+
+# OS specific
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Test artifacts
+.pytest_cache/
+.coverage
+htmlcov/
