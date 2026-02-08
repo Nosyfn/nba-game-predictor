@@ -96,7 +96,7 @@ Follow these steps to set up the project from scratch and make your first predic
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/YourUsername/nba-game-predictor.git
+git clone https://github.com/Nosyfn/nba-game-predictor.git
 cd nba-game-predictor
 ```
 
